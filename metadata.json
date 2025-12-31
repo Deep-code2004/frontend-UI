@@ -1,0 +1,7 @@
+{
+  "name": "Elite Fashion Store",
+  "description": "A premium, fully responsive e-commerce fashion storefront featuring exclusive collections, categorized exploration, and curated recommendations with a sleek, minimalist aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
